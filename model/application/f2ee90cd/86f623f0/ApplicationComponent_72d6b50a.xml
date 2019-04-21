@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Controler "
+    id="72d6b50a"
+    documentation="A software component common to the MVC  (Model View Controler) pattern. "/>

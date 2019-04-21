@@ -1,0 +1,6 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="System Context"
+    id="b8f4a8ca"
+    documentation="SYSTEM CONTEXT VIEW&#xD;&#xA;&#xD;&#xA;The System Context View is the second view created in FreePraXtice. &#xD;&#xA;The purpose of the System Context View is to set the solution in context for the following Logical System Design task&#xD;&#xA;It shows the relationship between the existing and “proposed” systems. &#xD;&#xA;The System Context View contains both existent components and component that have not yet been defined and as such it is a bridge between the current state and a target state.&#xD;&#xA;It is a more sophisticated view in that it contains elements from both the Business and the Application layers.&#xD;&#xA;&#xD;&#xA;The purpose of the System Context View is to set the solution in context for the following Logical System Design task "
+    viewpoint="application_usage"/>

@@ -1,0 +1,6 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technology "
+    id="d0600cea"
+    documentation="TECHNOLOGY VIEW&#xD;&#xA;&#xD;&#xA;This view explains how the infrastructure works it does NOT specify the individual physical components. &#xD;&#xA;It shows us what types of servers the solution will use, "
+    viewpoint="technology"/>

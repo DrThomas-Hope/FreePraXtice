@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tagger Admin System "
+    id="8e19435b"
+    documentation="Tag Contract Administrator used for E-Toll tag accounts, opening tag accounts, updating customer details, ordering additional tags, seeting up automatic payments and accepting initial deposits via the IToll system"/>

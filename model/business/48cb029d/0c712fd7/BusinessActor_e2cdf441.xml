@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contact Centre Officer"
+    id="e2cdf441"
+    documentation="staff &#xD;&#xA;200 Help Desk operators&#xD;&#xA;26 SYS Desk operators  &#xD;&#xA;&#xD;&#xA;Operator Uses the IVR to transfer Caller to the approperiate application &#xD;&#xA;"/>

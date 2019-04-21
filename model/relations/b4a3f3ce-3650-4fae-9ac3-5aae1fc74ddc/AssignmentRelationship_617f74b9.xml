@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Located "
+    id="617f74b9">
+  <source
+      xsi:type="archimate:Location"
+      href="Location_42411808.xml#42411808"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_05b04c6d.xml#05b04c6d"/>
+</archimate:AssignmentRelationship>

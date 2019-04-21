@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment"
+    id="1eb1f1ce"
+    documentation="SOAP over HTTP ">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_8e19435b.xml#8e19435b"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_8d7fa8a1.xml#8d7fa8a1"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Makes Payment "
+    id="cc2dbb25">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_c4b6d3c1.xml#c4b6d3c1"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_1dcc4d02.xml#1dcc4d02"/>
+</archimate:AssociationRelationship>

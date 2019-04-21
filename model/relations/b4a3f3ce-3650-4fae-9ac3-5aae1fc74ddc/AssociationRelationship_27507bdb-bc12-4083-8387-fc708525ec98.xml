@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Connects  "
+    id="27507bdb-bc12-4083-8387-fc708525ec98">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_12fc2a6e-8f99-4313-bd3b-ff846bbbcb7a.xml#12fc2a6e-8f99-4313-bd3b-ff846bbbcb7a"/>
+  <target
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_0df3a2cf.xml#0df3a2cf"/>
+</archimate:AssociationRelationship>

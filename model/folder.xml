@@ -1,0 +1,13 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FreePraXtice Model "
+    id="0b570803"
+    purpose="FREEPRAXTICE MODEL VERSION 1.6&#xD;&#xA;&#xD;&#xA;This model is provided free of charge, as is with no warranty specific or implied as a component of the FreePraXtice Architectural Methodology. &#xD;&#xA;There is NO suppport for this artefact.  &#xD;&#xA;&#xD;&#xA;ARCHITECTURE VISION: &#xD;&#xA;The Architecture Vision is the foundation artefact of the FreePraXtice methodology. It records what the solution should do and how that brings value to the business. &#xD;&#xA;&#xD;&#xA;Purpose Section :&#xD;&#xA;&#xD;&#xA;The solution will allow an operator to see all the client’s transactions (unambiguous and verifiable primary objective). The transactions will be ordered by date most recent first (unambiguous and verifiable) and presented in an abbreviated format (somewhat ambiguous statement needs clarification, but secondary). &#xD;&#xA;&#xD;&#xA;Value Section:&#xD;&#xA;&#xD;&#xA;The solution increases the customer service representatives’ opportunities for cross selling (the unambiguous and verifiable purpose).&#xD;&#xA;"
+    version="4.4.0">
+  <properties
+      key="Instructions -Link "
+      value="http://confluence.anatas.com:8090/display/ADTAM/Technical+Engagement+Models"/>
+  <properties
+      key="Technique Paper "
+      value="Establish Advantage Client Architecture Model"/>
+</archimate:ArchimateModel>
