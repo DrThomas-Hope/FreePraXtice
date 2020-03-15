@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment setup "
+    id="2bab46e4-a2b2-4f16-969c-26eaba9854fe"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_dd7e825e.xml#dd7e825e"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_42965875-832b-4ceb-bcb5-a66a52158338.xml#42965875-832b-4ceb-bcb5-a66a52158338"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iToll Main() "
+    id="e28b3079"
+    documentation="Internally developed supporting component &#xD;&#xA;&#xD;&#xA;MAIN()&#xD;&#xA;&#xD;&#xA;IF MESSAGE VALID THEN &#xD;&#xA;&#x9;CALL RULES.ENGINE ( CustID) &#xD;&#xA;&#x9;&#x9;RETURN ( ) &#xD;&#xA;&#xD;&#xA;IF RETURN (OK) THEN &#xD;&#xA;&#x9;SELECT BANK.DETAILS ( CustID)&#xD;&#xA;&#x9;CALL CREATEMESSAGE (CustID, BANK.DETAILS) &#xD;&#xA;&#x9;PUT MESSAGE &#xD;&#xA;ELSE END &#xD;&#xA;&#xD;&#xA; &#xD;&#xA;&#x9;"/>

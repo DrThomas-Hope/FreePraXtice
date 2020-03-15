@@ -1,0 +1,6 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Context "
+    id="262bc8bf"
+    documentation="BUSINESS CONTEXT VIEW&#xD;&#xA;&#xD;&#xA;The Business Context View is the first “real” view, meaning one you will share with the team,&#xD;&#xA;The Business Context View’s purpose is to identify and position the business elements in the context of the solution. &#xD;&#xA;It records the relationships between business entitries. &#xD;&#xA;It is the foundation of Business - IT alignment. "
+    viewpoint="business_process_cooperation"/>

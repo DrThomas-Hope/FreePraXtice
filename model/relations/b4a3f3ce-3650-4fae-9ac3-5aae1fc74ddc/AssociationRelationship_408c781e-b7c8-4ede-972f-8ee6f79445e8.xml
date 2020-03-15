@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accumilates "
+    id="408c781e-b7c8-4ede-972f-8ee6f79445e8">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_42965875-832b-4ceb-bcb5-a66a52158338.xml#42965875-832b-4ceb-bcb5-a66a52158338"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_4168a0eb.xml#4168a0eb"/>
+</archimate:AssociationRelationship>

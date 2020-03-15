@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Creates "
+    id="2fb3d3a6">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_de5b9d0d.xml#de5b9d0d"/>
+  <target
+      xsi:type="archimate:Representation"
+      href="Representation_877090ad.xml#877090ad"/>
+</archimate:AssociationRelationship>

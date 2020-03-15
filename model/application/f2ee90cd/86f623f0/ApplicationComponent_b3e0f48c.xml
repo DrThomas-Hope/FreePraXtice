@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Messenger"
+    id="b3e0f48c"
+    documentation="Adaptor that interfaces to MQ"/>

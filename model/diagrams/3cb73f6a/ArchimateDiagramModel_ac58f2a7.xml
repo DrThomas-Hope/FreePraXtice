@@ -1,0 +1,6 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technology Usage"
+    id="ac58f2a7"
+    documentation="TECHNOLOGY USAGE VIEW&#xD;&#xA;&#xD;&#xA;This is a symbolic view of the infrastructure that details every individual component. &#xD;&#xA;It is useful for non functional and deployment planning considerations. "
+    viewpoint="technology_usage"/>

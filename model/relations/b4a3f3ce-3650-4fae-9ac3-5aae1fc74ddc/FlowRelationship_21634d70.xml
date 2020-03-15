@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Quote "
+    id="21634d70">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_06fb8c82.xml#06fb8c82"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_a81e5678.xml#a81e5678"/>
+</archimate:FlowRelationship>

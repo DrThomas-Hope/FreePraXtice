@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Initates Payment "
+    id="36c27ed5">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_b9d09139.xml#b9d09139"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_dd7e825e.xml#dd7e825e"/>
+</archimate:FlowRelationship>
